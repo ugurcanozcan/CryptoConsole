@@ -1,0 +1,8 @@
+C:\Works\CryptoConsole\CryptoConsole\bin\Debug\CryptoConsole.exe.config
+C:\Works\CryptoConsole\CryptoConsole\bin\Debug\CryptoConsole.exe
+C:\Works\CryptoConsole\CryptoConsole\bin\Debug\CryptoConsole.pdb
+C:\Works\CryptoConsole\CryptoConsole\obj\Debug\CryptoConsole.csproj.AssemblyReference.cache
+C:\Works\CryptoConsole\CryptoConsole\obj\Debug\CryptoConsole.csproj.SuggestedBindingRedirects.cache
+C:\Works\CryptoConsole\CryptoConsole\obj\Debug\CryptoConsole.csproj.CoreCompileInputs.cache
+C:\Works\CryptoConsole\CryptoConsole\obj\Debug\CryptoConsole.exe
+C:\Works\CryptoConsole\CryptoConsole\obj\Debug\CryptoConsole.pdb
